@@ -1,0 +1,41 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #0f172a;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  text-align: center;
+}
+
+input {
+  padding: 10px;
+  width: 250px;
+}
+
+button {
+  padding: 10px 20px;
+  background: #15bff1;
+  border: none;
+  cursor: pointer;
+}
+
+#results {
+  margin-top: 20px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  background: #1e293b;
+  margin: 5px;
+  padding: 8px;
+  border-radius: 5px;
+}
